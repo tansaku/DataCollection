@@ -13,4 +13,8 @@ Scenario: I want to accept a listing
 	And I fill "contact" with "credit"
 	Then I should see "credit"
 
+  # not sure what we mean by accepting a listing here
+  # need more explanation, or clearer examples ...
+  # is this about someone being able to contact the person who listed a service?
+
 
